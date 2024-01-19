@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "BikeName": "Harley-Davidson ",
+    "BikeTitle": "These include Cruiser, Grand American Touring, Trike, Sport and Adventure Touring. The categories used more generally throughout the industry include standard, cruiser, touring, sport and adventure.",
+    "img": "https://i.ibb.co/ZK6vpSN/Harly.jpg",
+    "Price": "80000 $"
+  },
+  {
+    "id": "2",
+    "BikeName": "Kawasaki Ninja h2r",
+    "BikeTitle": "What's good about this super sport bike is the set of great features for enhanced drivability and safety such as Anti-lock Braking System (ABS), cornering ABS, traction control, cornering traction control, assist and slipper clutch, and immobilizer.",
+    "img": "https://i.ibb.co/5kkRHkN/Kawasaki.jpg",
+    "Price": "70000 $"
+  },
+  {
+    "id": "3",
+    "BikeName": "Ducati Panigale",
+    "BikeTitle": "An example of Italian excellence with racing DNA and competitive spirit: the Panigale is the object of desire of every Ducatista. Point of reference in the super sport segment of production, it guarantees maximum driveability on track and on the road.",
+    "img": "https://i.ibb.co/h8CpRmS/Ducati.jpg",
+    "Price": "60000 $"
+  },
+  {
+    "id": "4",
+    "BikeName": "KTM Duke",
+    "BikeTitle": "Brand-new RC 990, RC 390, and RC 125 spied. KTM has been one of the linchpins of the recent European revival in MotoGP, along with Ducati and Aprilia taking a leading role in a series that spent decades dominated by Japanese brands.",
+    "img": "https://i.ibb.co/QXWvNh6/Ktm.jpg",
+    "Price": "20000 $"
+  },
+  {
+    "id": "5",
+    "BikeName": "Suzuki Hayabusa",
+    "BikeTitle": "Being a sports commuter bike, the Gixxer offers a pleasurable riding experience. The chair is appropriately cushioned and the suspension is calibrated for an effortless journey. The bike is also highly maneuverable, rendering it a commendable option for both seasoned and neophyte riders.",
+    "img": "https://i.ibb.co/wKGKTzF/Suzuki.jpg",
+    "Price": "50000 $"
+  },
+  {
+    "id": "6",
+    "BikeName": "Royal Enfield",
+    "BikeTitle": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, Worcestershire sold motorcycles, bicycles, lawnmowers and stationary engines which they had manufactured. Enfield Cycle Company also used the brand name Enfield without the Royal.",
+    "img": "https://i.ibb.co/gSnPB96/Royel.jpg",
+    "Price": "25000 $"
+  },
+  {
+    "id": "7",
+    "BikeName": "Royal Fat Bob",
+    "BikeTitle": "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes. Motorcycles are a common form of transportation throughout the world. People also ride them in races or just for fun",
+    "img": "https://i.ibb.co/hZZ0F9m/javier-1.jpg",
+    "Price": "25000 $"
+  },
+  {
+    "id": "8",
+    "BikeName": "Royal Nightster",
+    "BikeTitle": "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes. Motorcycles are a common form of transportation throughout the world. People also ride them in races or just for fun",
+    "img": "https://i.ibb.co/0tKHmyH/dias-2.jpg",
+    "Price": "25000 $"
+  },
+  {
+    "id": "9",
+    "BikeName": "Royal Road King",
+    "BikeTitle": "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes. Motorcycles are a common form of transportation throughout the world. People also ride them in races or just for fun",
+    "img": "https://i.ibb.co/QY1vrjM/pixabay-3.jpg",
+    "Price": "25000 $"
+  },
+  {
+    "id": "10",
+    "BikeName": "Royal Enfield V4",
+    "BikeTitle": "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes. Motorcycles are a common form of transportation throughout the world. People also ride them in races or just for fun",
+    "img": "https://i.ibb.co/Nxg6Vdr/kelly-4.jpg",
+    "Price": "25000 $"
+  },
+  {
+    "id": "11",
+    "BikeName": "Ducati Panigale V4",
+    "BikeTitle": "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes. Motorcycles are a common form of transportation throughout the world. People also ride them in races or just for fun",
+    "img": "https://i.ibb.co/jLZ0LqD/maeder-6.jpg",
+    "Price": "25000 $"
+  },
+  {
+    "id": "12",
+    "BikeName": "Royal Roky V3",
+    "BikeTitle": "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes. Motorcycles are a common form of transportation throughout the world. People also ride them in races or just for fun.",
+    "img": "https://i.ibb.co/nzSB2h9/coolen-5.jpg",
+    "Price": "25000 $"
+  }
+]
