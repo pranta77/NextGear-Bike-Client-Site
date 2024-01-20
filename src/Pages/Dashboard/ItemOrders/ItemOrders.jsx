@@ -6,7 +6,7 @@ export default function ItemOrders() {
   const [orders, setOrders] = useState([]);
   // console.log(user);
   useEffect(() => {
-    const url = `http://localhost:5000/orders?email=${user?.email}`;
+    const url = `https://next-gear-bike-server.vercel.app/orders?email=${user?.email}`;
     fetch(url)
       .then((res) => res.json())
       .then((data) => setOrders(data));
@@ -14,7 +14,7 @@ export default function ItemOrders() {
   // console.log(orders);
 
   const handleCancel = (id) => {
-    const url = `http://localhost:5000/orders${id}`;
+    const url = `https://next-gear-bike-server.vercel.app/orders${id}`;
     fetch(url, {
       method: "DELETE",
     })

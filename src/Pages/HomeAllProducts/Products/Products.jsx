@@ -4,7 +4,7 @@ import Product from "../Product/Product";
 export default function Products() {
   const [products, setProducts] = useState([]);
   useEffect(() => {
-    const url = "http://localhost:5000/products";
+    const url = "https://next-gear-bike-server.vercel.app/products";
     fetch(url)
       .then((res) => res.json())
       .then((data) => setProducts(data));

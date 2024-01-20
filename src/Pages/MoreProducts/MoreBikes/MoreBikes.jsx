@@ -4,7 +4,7 @@ import MoreBike from "../MoreBike/MoreBike";
 export default function MoreBikes() {
   const [product, setProducts] = useState([]);
   useEffect(() => {
-    const url = "http://localhost:5000/products";
+    const url = "https://next-gear-bike-server.vercel.app/products";
     fetch(url)
       .then((res) => res.json())
       .then((data) => setProducts(data));

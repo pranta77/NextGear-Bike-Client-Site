@@ -12,7 +12,7 @@ export default function Buying() {
   // console.log(user);
 
   useEffect(() => {
-    const url = "http://localhost:5000/products";
+    const url = "https://next-gear-bike-server.vercel.app/products";
     fetch(url)
       .then((res) => res.json())
       // .then((data) => setBuy(data));
@@ -38,7 +38,7 @@ export default function Buying() {
       productname: buy[0]?.BikeName,
       productprice: buy[0]?.Price,
     };
-    fetch("http://localhost:5000/orders", {
+    fetch("https://next-gear-bike-server.vercel.app/orders", {
       method: "POST",
       headers: {
         "content-type": "application/json",
