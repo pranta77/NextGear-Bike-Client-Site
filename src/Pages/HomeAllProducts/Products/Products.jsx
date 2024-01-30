@@ -11,10 +11,10 @@ export default function Products() {
   }, []);
   return (
     <div>
-      <h1 className="text-5xl font-black text-slate-200 m-auto text-center mt-10">
+      <h1 className="text-5xl font-black text-slate-200 m-auto text-center my-10">
         OUR MONOPOLISTIC BEST BIKE
       </h1>
-      <div className="md:grid md:grid-cols-2 md:p-10">
+      <div className="md:grid md:grid-cols-3 md:p-15">
         {products &&
           products
             .slice(0, 6)

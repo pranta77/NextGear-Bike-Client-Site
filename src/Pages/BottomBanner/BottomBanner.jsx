@@ -5,7 +5,11 @@ export default function BottomBanner() {
   return (
     <div>
       <div className="relative">
-        <img src="https://i.ibb.co/rvQdwHL/down-Banner.jpg" alt="" />
+        <img
+          width={"100%"}
+          src="https://i.ibb.co/rvQdwHL/down-Banner.jpg"
+          alt=""
+        />
       </div>
       <div className=" md:-mt-60 max-sm:-mt-10 absolute max-sm:right-5  md:-right-10 transform md:-translate-x-1/2 -translate-y-1/2  text-center">
         <h1 className="md:text-5xl text-red-600 font-bold">
