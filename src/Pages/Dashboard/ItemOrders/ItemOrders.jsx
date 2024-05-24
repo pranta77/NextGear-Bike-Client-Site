@@ -38,7 +38,7 @@ export default function ItemOrders() {
         <table className="table">
           {/* head */}
           <thead>
-            <tr className="text-red-100">
+            <tr className="text-slate-950 font-bold text-lg">
               <th>Name</th>
               <th>Bike Name</th>
               <th>Price</th>
@@ -46,7 +46,7 @@ export default function ItemOrders() {
               <th>Cancel</th>
             </tr>
           </thead>
-          <tbody className="text-amber-600">
+          <tbody className="text-primary">
             {orders.map((order) => (
               <tr key={order._id}>
                 <td>{order.name}</td>
@@ -56,7 +56,7 @@ export default function ItemOrders() {
                 <td>
                   <button
                     onClick={() => handleCancel(order._id)}
-                    className="btn btn-outline btn-primary"
+                    className="btn btn-outline btn-error"
                   >
                     Cancel
                   </button>

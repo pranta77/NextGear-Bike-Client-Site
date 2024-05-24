@@ -10,7 +10,7 @@ export default function Footer() {
   return (
     <>
       {" "}
-      <footer className="footer p-10 bg-base-300 text-base-content">
+      <footer className="footer p-10 bg-base-200 text-base-content">
         <nav>
           <h1 className="text-3xl pl-10 font-semibold">NextGear Bike</h1>
           <p>Always with you till the end of the road and beyond.</p>

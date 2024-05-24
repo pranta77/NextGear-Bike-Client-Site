@@ -25,7 +25,7 @@ export default function Dashboard() {
             <NavLink to="/dashboard/review"> Review</NavLink>
           </li>
           <li className="mt-3">
-            <button onClick={logOut} className="btn btn-outline">
+            <button onClick={logOut} className="btn btn-error">
               Signout
             </button>
           </li>

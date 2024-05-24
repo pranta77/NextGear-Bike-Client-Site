@@ -13,7 +13,7 @@ export default function HomeReview() {
 
   return (
     <div>
-      <h1 className="text-5xl font-black text-slate-200 m-auto text-center mt-10">
+      <h1 className="text-5xl font-black text-purple-500 m-auto text-center mt-10">
         Reviews By Our Happy BikeGears Customers
       </h1>
 

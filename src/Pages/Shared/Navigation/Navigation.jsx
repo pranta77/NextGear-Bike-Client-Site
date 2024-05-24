@@ -63,13 +63,13 @@ export default function Navigation() {
                 </button>
               </NavLink>
 
-              <button onClick={logOut} className="btn btn-outline btn-primary">
+              <button onClick={logOut} className="btn btn-outline btn-info">
                 Signout
               </button>
             </>
           ) : (
             <NavLink to={"/signin"}>
-              <button className="btn btn-outline btn-primary">SignIn</button>
+              <button className="btn btn-outline btn-warning">SignIn</button>
             </NavLink>
           )}
         </div>
